@@ -6,10 +6,14 @@ This is sreya Patchhigolla
 B.sc
 =======
 This is sreya From Parvathipuram
-Vzm dist
+Vzm district
+<<<<<<< HEAD
 <<<<<<< HEAD
 Andhra Pradesh
 India..
+=======
+
+>>>>>>> js-assignments
 =======
 
 >>>>>>> js-assignments
