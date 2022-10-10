@@ -1,0 +1,7 @@
+<html>
+<head>
+<title> Capgemini </title>
+</head>
+<body> Technologies </body>
+<p> Welcome </p>
+</html>
